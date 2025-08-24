@@ -43,6 +43,7 @@ The notebook demonstrates how to build, train, and evaluate CNNs and transfer le
 
 ## 📂 Project Structure
 .
+
 ├── notebook.ipynb   # Jupyter notebook with the full workflow
 
 ├── requirements.txt # Dependencies
